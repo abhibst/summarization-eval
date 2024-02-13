@@ -33,6 +33,7 @@ process_llm_results(model_summary, results_csv)
 
 model_summary : srt-> This is the summary generted by the model
 results_csv: str -> This is the data by which the summary was generated.
+llm_name: str: optionl
 
 **Note**: You will need to have an OpenAI API key set up in your environment to run the script.
 
