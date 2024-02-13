@@ -1,3 +1,5 @@
 __pycache__/
 debug.log
 .ruff_cache/
+.env
+.ipynb_checkpoints/
