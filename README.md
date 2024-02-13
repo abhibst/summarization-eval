@@ -18,7 +18,7 @@ Elegantly automate text summarization evaluation in reference-free manner with p
 Clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/Muhtasham/summarization-eval
+git clone https://github.com/abhibst/summarization-eval.git
 cd summarization-eval
 pip install -r requirements.txt
 ```
